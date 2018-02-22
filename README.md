@@ -1,3 +1,3 @@
 # Jenkins
 
-welcome to new jenkins test setup
+welcome to new jenkins test case integration
